@@ -12,7 +12,8 @@ int main(int argc, char const *argv[])
 {
     pthread_t thread;
 
-    printf("hello from the first thread");
+    printf("hello from the first thread"); 
+    // e
 
     int num = 23;
 
