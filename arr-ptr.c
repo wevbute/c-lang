@@ -7,6 +7,7 @@ int main(int argc, char const *argv[])
     char *ptr = chr; 
 
     printf("%s", ptr++);
+    // e
 
     return 0;
 }
